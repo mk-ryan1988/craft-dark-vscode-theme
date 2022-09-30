@@ -1,0 +1,21 @@
+{
+  "name": "crafty-theme-dark",
+  "displayName": "Crafty Theme Dark",
+  "description": "Theme inspired by craft.do",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Crafty Theme Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Crafty-Theme-color-theme.json"
+      }
+    ]
+  }
+}
