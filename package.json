@@ -17,5 +17,9 @@
         "path": "./themes/Crafty-Theme-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mk-ryan1988/crafty-pro"
   }
 }
